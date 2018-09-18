@@ -1,6 +1,6 @@
 {
   "name": "cb-mpvue-loader",
-  "version": "1.1.301",
+  "version": "1.1.302",
   "description": "mpvue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
