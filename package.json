@@ -1,6 +1,6 @@
 {
   "name": "cb-mpvue-loader",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "mpvue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
@@ -71,7 +71,7 @@
   },
   "peerDependencies": {
     "css-loader": "*",
-    "cb-mpvue-template-compiler": "2.0.600"
+    "cb-mpvue-template-compiler": ">=2.0.600"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
